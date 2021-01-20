@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "barberManager"
+  "defaultProject": "barberManager",
+  "cli": {
+    "analytics": "44595c57-8df8-4869-8e88-4bf94df1c0b6"
+  }
 }
